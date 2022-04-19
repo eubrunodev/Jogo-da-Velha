@@ -167,7 +167,6 @@ void menuInicial(){
 	printf("\n#                   JOGO DA VELHA                       #");
 	printf("\n#                                                       #");
 	printf("\n#           Desenvolvido por: eubrunodev                #");
-	printf("\n#           Discord: GlockH$#7448                       #");
 	printf("\n#                                                       #");
 	printf("\n#########################################################");
 	printf("\n\nNome do jogador: ");
